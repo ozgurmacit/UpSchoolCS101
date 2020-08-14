@@ -4,9 +4,9 @@ This is a list of resources for people who wants to get into the world programmi
 ## Class 1: Mathematics for Computer Science
 Albert Meyer, and Adam Chlipala. *6.042J Mathematics for Computer Science*. Spring 2015. Massachusetts Institute of Technology: MIT OpenCourseWare, https://ocw.mit.edu. License: [Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-This course includes 18 hours and 43 minutes of video content (33 minutes are optional). The video content is backed with a lot of examples. The course provides a complete mathematical background for computer science. Optional content is marked with ***bold italic*** text.
+This course includes 18 hours and 43 minutes of video content (33 minutes are optional). The video content is backed with a lot of examples. The course provides a complete mathematical background for computer science. Optional content is marked with *italic* text.
 
-There are also some supplementary content which is marked with **bold** text. Currently, supplementary content consists of 9 minutes of reading metarial.
+There are also some supplementary content which is marked with **bold** text (if also optional ***bold italic***). Currently, supplementary content consists of 10 minutes of video and 50 minutes of reading metarial.
 
 ### Unit 1: Proofs
 Website: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/
@@ -64,7 +64,7 @@ Website: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science
     1. Relational Mappings (Video: 0:09)
     1. Total Injection
     1. Finite Cardinality (Video: 0:11)
-    1. ***A inj B***
+    1. *A inj B*
     1. Total Relations
     1. Surjective Relations
     1. Inverse Relations
@@ -76,8 +76,8 @@ Website: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science
     1. Same Colored Horses
     1. Strong Induction (Video: 0:10)
     1. Unstacking Game Score
-    1. ***WOP vs Induction (Video: 0:08)***
-    1. ***Strong vs Ordinary Induction vs WOP***
+    1. *WOP vs Induction (Video: 0:08)*
+    1. *Strong vs Ordinary Induction vs WOP*
     1. Induction by n+3
     1. Induction Rules
     1. Postage by Induction
@@ -104,12 +104,12 @@ Website: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science
     1. Cantor's Theorem (Video: 20)
     1. Cantor's Diagonal Argument
     1. Countable and Uncountable Sets
-    1. ***The Halting Problem (Video: 0:16)***
-    1. ***Halting Problem Basics***
+    1. *The Halting Problem (Video: 0:16)*
+    1. *Halting Problem Basics*
     1. Russell's Paradox (Video: 0:13)
-    1. ***Russell's Paradox and ZFC***
-    1. ***Set Theory Axioms (Video: 0:09)***
-    1. ***Set Theory Axioms***
+    1. *Russell's Paradox and ZFC*
+    1. *Set Theory Axioms (Video: 0:09)*
+    1. *Set Theory Axioms*
 
 ### Unit 2: Structures
 Website: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/
@@ -182,7 +182,7 @@ Website: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science
     1. Chromatic Number
     1. Connectivity (Video: 0:03)
     1. k-Connectivity (Video: 0:08)
-    1. ***k-Connected***
+    1. *k-Connected*
     1. Graph Coloring I
     1. Graph Coloring II
     1. Connected Components in Integers
@@ -199,6 +199,7 @@ Website: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science
     1. Graph Algorithm
 1. Stable Matching
     1. Stable Matching (Video: 0:11)
+    1. ***[Eşleme Kuramı ve 2012 Nobel Ekonomi Ödülü](http://www.ie.boun.edu.tr/~tinaz/DocumentsPhotos/MD_Kararli%20Esleme_proofs.pdf) (Reading (in Turkish): 0:41)***
     1. Matching Ritual (Video: 0:09)
     1. Derived Variables
     1. Mating Ritual
@@ -253,6 +254,7 @@ Website: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science
     1. Multinomial Theorem (Video: 0:08)
 1. Pigeonhole Principle, Inclusion-Exclusion
     1. The Pigeonhole Principle (Video: 0:04)
+    1. **Prove that there are at least 4 months in every year which includes 5 Tuesdays.**
     1. Rolling Dice
     1. Inclusion-Exclusion Example (Video: 0:13)
     1. Inclusion-Exclusion 2 Sets (Video: 0:07)
@@ -343,3 +345,4 @@ Website: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science
     1. Page Rank (Video: 0:11)
     1. Random Walks
     1. Random Walks (cont.)
+1. **[A beginner's guide to quantum computing](https://www.youtube.com/watch?v=QuR969uMICM) (Video: 0:10)**
