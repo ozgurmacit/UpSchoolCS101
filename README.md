@@ -1,7 +1,7 @@
 # UpSchool CS101
 This is a list of resources for people who wants to get into the world programming and do not have the necessary background for that.
 
-## Class 1: Mathematics for Computer Science
+## Class 1: Mathematics for Computer Science (MIT)
 Albert Meyer, and Adam Chlipala. *6.042J Mathematics for Computer Science*. Spring 2015. Massachusetts Institute of Technology: MIT OpenCourseWare, https://ocw.mit.edu. License: [Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 This course includes 18 hours and 43 minutes of video content (33 minutes are optional). The video content is backed with a lot of examples. The course provides a complete mathematical background for computer science. Optional content is marked with *italic* text.
