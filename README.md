@@ -348,7 +348,7 @@ Website: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science
     1. Random Walks
     1. Random Walks (cont.)
 1. **[A beginner's guide to quantum computing](https://www.youtube.com/watch?v=QuR969uMICM) (Video: 0:10)**
-1. **Linear Algebra
+1. **Linear Algebra**
     1. **[Linear Algebra for Computer Scientists](https://www.youtube.com/watch?v=wYsmb-H9NXU) (Video: 0:17)**
     1. **[Why is Linear Algebra Useful?](https://www.youtube.com/watch?v=X0HXnHKPXSo) (Video: 0:10)**
 1. ***Numerical methods: [Fast inverse square root](https://en.wikipedia.org/wiki/Fast_inverse_square_root) (Reading: 0:12)***
