@@ -6,12 +6,14 @@ Albert Meyer, and Adam Chlipala. *6.042J Mathematics for Computer Science*. Spri
 
 This course includes 18 hours and 43 minutes of video content (33 minutes are optional). The video content is backed with a lot of examples. The course provides a complete mathematical background for computer science. Optional content is marked with *italic* text.
 
-There are also some supplementary content which is marked with **bold** text (if also optional ***bold italic***). Currently, supplementary content consists of 10 minutes of video and 50 minutes of reading metarial.
+There are also some supplementary content which is marked with **bold** text (if also optional ***bold italic***). Currently, supplementary content consists of 52 minutes of video and 1 hour and 2 minutes of reading metarial.
 
 ### Unit 1: Proofs
 Website: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/
 
-1. **“What is Discrete Mathematics? How is discrete mathematics used in computer science? How do MPCS students benefit from learning discrete mathematics?” https://masters.cs.uchicago.edu/page/math-needed-computer-science (Reading: 0:09)**
+1. **Introduction**
+    1. **“What is Discrete Mathematics? How is discrete mathematics used in computer science? How do MPCS students benefit from learning discrete mathematics?” https://masters.cs.uchicago.edu/page/math-needed-computer-science (Reading: 0:09)**
+    1. **[The math needed for computer science](https://www.youtube.com/watch?v=eSFA1Fp8jcU) (Video: 0:15)**
 1. Intro to Proofs
     1. Welcome to 6.042 (Video: 0:02)
     1. Intro To Proofs: Part 1 (Video: 0:09)
@@ -346,3 +348,7 @@ Website: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science
     1. Random Walks
     1. Random Walks (cont.)
 1. **[A beginner's guide to quantum computing](https://www.youtube.com/watch?v=QuR969uMICM) (Video: 0:10)**
+1. **Linear Algebra
+    1. **[Linear Algebra for Computer Scientists](https://www.youtube.com/watch?v=wYsmb-H9NXU) (Video: 0:17)**
+    1. **[Why is Linear Algebra Useful?](https://www.youtube.com/watch?v=X0HXnHKPXSo) (Video: 0:10)**
+1. ***Numerical methods: [Fast inverse square root](https://en.wikipedia.org/wiki/Fast_inverse_square_root) (Reading: 0:12)***
