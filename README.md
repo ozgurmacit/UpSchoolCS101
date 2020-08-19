@@ -352,3 +352,32 @@ Website: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science
     1. **[Linear Algebra for Computer Scientists](https://www.youtube.com/watch?v=wYsmb-H9NXU) (Video: 0:17)**
     1. **[Why is Linear Algebra Useful?](https://www.youtube.com/watch?v=X0HXnHKPXSo) (Video: 0:10)**
 1. ***Numerical methods example: [Fast inverse square root](https://en.wikipedia.org/wiki/Fast_inverse_square_root) (Reading: 0:12)***
+
+## Class 2: CS50 (Harvard University)
+https://cs50.harvard.edu/summer/2020/
+
+> This course is an intensive introduction to the intellectual enterprises of computer science and the art of programming. It is a fast-moving course that demands a substantial commitment of time and effort for students to be successful. It teaches students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include C, Python, SQL, and JavaScript plus CSS and HTML. Problem sets are inspired by real-world domains of biology, cryptography, finance, forensics, and gaming.
+
+This course includes 18 hours and 9 minutes of video content. The video content is backed with a lot of examples.
+
+1. Week 0: Scratch (Video: 1:02)
+1. Week 1: C (Video: 1:46)
+1. Week 2: Arrays (Video: 1:47)
+1. Week 3: Algorithms (Video: 1:29)
+1. Week 4: Memory (Video: 1:48)
+1. Week 5: Data Structures (Video: 1:45)
+1. Week 6: Python (Video: 1:48)
+1. Week 7: SQL (Video: 1:46)
+1. Week 8: HTML, CSS, JavaScript
+    1. Introduction (Video: 0:02)
+    1. HTTP (Video: 0:19)
+    1. HTML (Video: 0:30)
+    1. CSS (Video: 0:37)
+    1. JavaScript (Video: 0:48)
+    1. Homepage (Video: 0:09)
+1. Week 9: Web Programming
+    1. Flask (Video: 0:54)
+    1. Databases (Video: 0:29)
+    1. Finance (Video: 0:27)
+    1. Conclusion (Video: 0:01)
+1. Week 10: Information (Video: 0:52)
